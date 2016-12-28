@@ -1,0 +1,13 @@
+---
+layout: default
+images:
+  - image_path: /assets/Untitled_welded.jpg
+    title: Apple Pie
+	link: /lemon-cake.html
+---
+
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
