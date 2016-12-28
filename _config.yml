@@ -1,3 +1,14 @@
 name: Carly Chubak Fine Art
 markdown: kramdown
 url: http://carlychubak.github.io
+
+collections:
+  photos:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+        type: photos
+    values:
+      layout: photo
