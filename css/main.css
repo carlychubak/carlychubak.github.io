@@ -36,22 +36,10 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul.posts li {
     list-style: none;
-}
-
-.photo-gallery, .photo-gallery li {
-	list-style: none;
-	padding: 0;
-}
-
-.photo-gallery li {
-	display: inline-block;
-	width: 33%;
-}
-
-.photo-gallery li img {
-	width: 100%;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
