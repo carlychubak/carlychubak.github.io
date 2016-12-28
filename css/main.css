@@ -43,3 +43,7 @@ ul.posts li {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+ul.entries img {
+  width: 600px;   /*height or width? */
+  }
