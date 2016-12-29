@@ -34,6 +34,7 @@ footer {
 }
 
 ul.posts { 
+    list-style: none;
     margin: 20px auto 40px; 
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -45,5 +46,16 @@ ul.posts li {
 }
 
 ul.entries img {
-  width: 600px;   /*height or width? */
+  width: 300px;   /*height or width? */
   }
+  
+ul.entries li {
+  list-style-type: none;
+  position: relative;
+  margin: 20px auto;
+  padding: 5px;
+  background: #000000; /*frame col of portfolio list */
+  width: 300px;
+}
+
+
