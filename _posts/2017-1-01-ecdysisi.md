@@ -10,6 +10,7 @@ permalink: ecdysisi.html
 
 2017\. Found garment, thread, polyfill. Human-scale.
 
+![Ecdysis I]({{ site.url }}/images/2017_ecdysisi.jpg)
 
 
 </div>

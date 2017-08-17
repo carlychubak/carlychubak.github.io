@@ -8,7 +8,8 @@ permalink: interpolations.html
 <!--description-->
 <div style="text-align:center" markdown="1">
 
-2016\. Fabric, thread, polyfill. Variable dimensions.  Installed at the Ralph Pucci International Los Angeles Showroom.  Shown on a Vladimir Kagan sofa.
+2016\. Fabric, thread, polyfill. Variable dimensions.  
+Installed at the Ralph Pucci International Los Angeles Showroom.  Shown on a Vladimir Kagan sofa.
 
 ![Interpolations]({{ site.url }}/images/2016_interpolations.jpg)
 
