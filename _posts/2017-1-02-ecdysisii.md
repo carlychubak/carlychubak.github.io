@@ -8,7 +8,7 @@ permalink: ecdysisii.html
 <!--description-->
 <div style="text-align:center" markdown="1">
 
-2017\. Found garment, thread, polyfill. Human-scale.
+2017\. Found garment, thread, polyfill. 3' x 2' x 2'.
 
 ![Ecdysis II]({{ site.url }}/images/2017_ecdysisii.jpg)
 
