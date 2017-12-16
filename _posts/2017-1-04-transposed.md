@@ -20,6 +20,8 @@ In Transposed, Carly Chubak explores the translation of information between syst
 
 ![Transposed]({{ site.url }}/images/2017_transposed3.jpg)
 
+![Transposed]({{ site.url }}/images/2017_transposed5.jpg)
+
 ![Transposed]({{ site.url }}/images/2017_transposed4.jpg)
 
 
