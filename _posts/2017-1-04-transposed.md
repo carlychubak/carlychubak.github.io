@@ -6,7 +6,7 @@ title: Transposed
 permalink: transposed.html
 ---
 <!--description-->
-<div style="text-align:center" markdown="1">
+<div style="text-align:left" markdown="1">
 
 In Transposed, Carly Chubak explores the translation of information between systems, 
 and the manipulations that occur during this process.  Chubak shifts between sound, 
@@ -18,7 +18,9 @@ abstracted patterns that appear.  Chubak embodies the data and its movement acro
 mediums as she engages in these repetitive, compulsive tasks.  Any changes or mistakes 
 in the pattern are disjunctures, determining which information is kept, lost, or altered.  
 Labor becomes a direct affirmation of human agency.
+</div>
 
+<div style="text-align:center" markdown="1">
 2017\. Installation includes handknitting, audio, and handbound book.
 
 ![Transposed]({{ site.url }}/images/2017_transposed1.jpg)
