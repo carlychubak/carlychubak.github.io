@@ -10,9 +10,11 @@ permalink: schwarzschild.html
 
 2018\. Re-used upholstery fabric, thread, bowling ball. 50" x 50" x 48".
 
-“Spacetime Curvature for Bowling” is a model of the gravitational field surrounding a 
-Schwarzschild black hole with an event horizon the size of a bowling ball.  If you are 
-familiar with astrophysics, you know that once you cross the event horizon, there is no 
+<div style="text-align:left" markdown="1">
+
+“Spacetime Curvature for Bowling” is a model of the gravitational field surrounding a
+Schwarzschild black hole with an event horizon the size of a bowling ball.  If you are
+familiar with astrophysics, you know that once you cross the event horizon, there is no
 coming back out.  You won’t notice any physical change at first--it’s a purely mathematical 
 definition--but soon you start getting ripped apart by tidal forces.  So once you pick up 
 this bowling ball, you can never put it back down--your fingers have crossed the event horizon 
@@ -32,6 +34,7 @@ is the solution to Einstein’s field equations describing the gravitational fie
 non-rotating, spherically symmetric mass with no electric charge and assuming the cosmological 
 constant is zero.
 
+<div style="text-align:center" markdown="1">
 
 ![Spacetime Curvature for Bowling]({{ site.url }}/images/2018_schwarzschild1.jpg)
 
