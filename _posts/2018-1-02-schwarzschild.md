@@ -1,32 +1,45 @@
 ---
 layout: portfolio_entry
-image: /images/2019_takecover.jpg
-thumb: /images/thumbs/thumb_takecover.jpg
-title: Take Cover
-permalink: takecover.html
+image: /images/2018_schwarzschild1.jpg
+thumb: /images/thumbs/thumb_schwarzschild.jpg
+title: Spacetime Curvature for Bowling
+permalink: schwarzschild.html
 ---
 <!--description-->
 <div style="text-align:center" markdown="1">
 
-2019\. Hand-dyed raw silk noil, cotton thread. 63" x 87".
+2018\. Re-used upholstery fabric, thread, bowling ball. 50" x 50" x 48".
 
 <div style="text-align:left" markdown="1">
 
+“Spacetime Curvature for Bowling” is a model of the gravitational field surrounding a
+Schwarzschild black hole with an event horizon the size of a bowling ball.  If you are
+familiar with astrophysics, you know that once you cross the event horizon, there is no
+coming back out.  You won’t notice any physical change at first--it’s a purely mathematical 
+definition--but soon you start getting ripped apart by tidal forces.  So once you pick up 
+this bowling ball, you can never put it back down--your fingers have crossed the event horizon 
+(the surface of the ball), and will never come back out.
 
-Carly Chubak’s “Take Cover” is a modern revival of the domestic propaganda for American 
-households during World War II. Looking back on the fragmented depiction of enemy bodies 
-in wartime imagery and the propagandistic call to hand-knit socks for American troops, 
-she is fascinated by the way the nation’s agenda pervades the domestic space. In her work, 
-Chubak creates a twin-sized quilt that imitates Universal Camouflage Pattern, a US Army 
-uniform pattern that will be completely phased out by this September after dramatic failure 
-in the field. Each color is hand-dyed using natural dyes including tea from her kitchen 
-cupboard. “Take Cover” explores both the impressive complexity of modern imaging science 
-and the tragedy of an army wasting billions of dollars on useless uniforms in an effort 
-to keep up with the Joneses.
+The piece was created using discarded upholstery fabric.  Someone had attempted to 
+recover an easy chair with it, but gave up halfway through and got rid of it.  I use 
+found domestic materials like this to represent the home, the societal idea of tradition 
+and family.  This fabric could be on a chair in your grandmother’s living room, but instead 
+I’m using it to create a precise mathematical model. I am interested in exploring how we are 
+held in place by the ideas of family, society, or tradition.  Once we pick up a responsibility, 
+it can be difficult or impossible to set it back down--we can feel stuck, just as one would be 
+stuck in my Schwarzschild bowling ball.
+
+Science note: The Schwarzschild black hole is described by the Schwarzschild metric, which 
+is the solution to Einstein’s field equations describing the gravitational field outside a 
+non-rotating, spherically symmetric mass with no electric charge and assuming the cosmological 
+constant is zero.
 
 <div style="text-align:center" markdown="1">
 
-![Spacetime Curvature for Bowling]({{ site.url }}/images/2019_takecover.jpg)
+![Spacetime Curvature for Bowling]({{ site.url }}/images/2018_schwarzschild1.jpg)
 
+![Spacetime Curvature for Bowling]({{ site.url }}/images/2018_schwarzschild2.jpg)
+
+![Spacetime Curvature for Bowling]({{ site.url }}/images/2018_schwarzschild3.jpg)
 
 </div>
