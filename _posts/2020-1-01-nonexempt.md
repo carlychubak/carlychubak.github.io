@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
-image: /images/2020_nonexempt.jpg
-thumb: /images/thumbs/thumb_nonexempt.jpg
+image: /images/2020_nonexempt1.jpg
+thumb: /images/thumbs/thumb_nonexempt1.jpg
 title: Non-Exempt
 permalink: nonexempt.html
 ---
@@ -28,7 +28,7 @@ physically and mentally.
 
 <div style="text-align:center" markdown="1">
 
-![Spacetime Curvature for Bowling]({{ site.url }}/images/2020_nonexempt.jpg)
+![Non Exempt]({{ site.url }}/images/2020_nonexempt.jpg)
 
 
 </div>

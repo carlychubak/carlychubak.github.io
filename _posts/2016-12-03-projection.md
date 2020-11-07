@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 image: /images/2016_projection.jpg
-thumb: /images/thumbs/thumb_projection.jpg
+thumb: /images/thumbs/thumb_projection1.jpg
 title: Projection of Interpolations onto the XZ Plane
 permalink: projection.html
 ---

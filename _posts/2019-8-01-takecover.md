@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 image: /images/2019_takecover.jpg
-thumb: /images/thumbs/thumb_takecover.jpg
+thumb: /images/thumbs/thumb_takecover1.jpg
 title: Take Cover
 permalink: takecover.html
 ---

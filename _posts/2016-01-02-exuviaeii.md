@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 image: /images/2016_exuviaeii1.jpg
-thumb: /images/thumbs/thumb_exuviaeii.jpg
+thumb: /images/thumbs/thumb_exuviaeii1.jpg
 title: Exuviae II 
 permalink: exuviaeii.html
 ---

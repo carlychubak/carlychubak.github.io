@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 image: /images/2017_transposed.jpg
-thumb: /images/thumbs/thumb_transposed.jpg
+thumb: /images/thumbs/thumb_transposed1.jpg
 title: Transposed
 permalink: transposed.html
 ---
